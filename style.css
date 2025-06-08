@@ -1,0 +1,46 @@
+body {
+  font-family: sans-serif;
+  background: #f2f2f2;
+  display: flex;
+  justify-content: center;
+  padding: 40px;
+}
+
+.container {
+  background: white;
+  padding: 30px;
+  border-radius: 8px;
+  width: 500px;
+  box-shadow: 0 0 10px rgba(0,0,0,0.1);
+}
+
+h1 {
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+#reloadBtn {
+  display: block;
+  margin: 0 auto 20px;
+  padding: 10px 15px;
+  background: #007bff;
+  color: white;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+.user-card {
+  border-bottom: 1px solid #ccc;
+  padding: 10px 0;
+}
+
+.user-card:last-child {
+  border-bottom: none;
+}
+
+.error {
+  color: red;
+  text-align: center;
+  margin-top: 10px;
+}
