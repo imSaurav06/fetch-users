@@ -17,9 +17,16 @@ A simple project that uses the **JavaScript Fetch API** to retrieve and display 
 
 ## 🌐 Live Demo
 
-🔗 [Live Link](https://your-username.github.io/fetch-users/) *(replace with actual deployed link)*
+🔗 [Live Link](https://imsaurav06.github.io/fetch-users/) *(replace with actual deployed link)*
 
 ---
 
 ## 📁 File Structure
+
+fetch-users/
+!── index.html
+!── styles.css
+├── script.js
+└── README.md
+
 
